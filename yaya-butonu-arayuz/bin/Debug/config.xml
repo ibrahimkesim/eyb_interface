@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<build>
+		<name>Saha Dizayn</name>
+		<version>0.1</version>
+		<owner>ISBAK</owner>
+	</build>
+	<settings>
+		<serialPort>COM6</serialPort>
+		<!--
+		<baudRate>115200</baudRate>
+		<parity>none</parity>
+		<dataBits>8</dataBits>
+		<stopBits>one</stopBits>
+		-->
+	</settings>
+	<groups>
+		<group name="testMod">
+			<item type="label">
+				<text>Test Modu:</text>
+			</item>
+			<item type="button">
+				<text>Aç</text>
+				<click>write($TEST:ON)</click>
+			</item>
+			<item type="button">
+				<text>Kapat</text>
+				<click>write($TEST:OFF)</click>
+			</item>
+		</group>
+		<group name="butonDurumu">
+			<item type="label">
+				<text>Buton Durumu:</text>
+			</item>
+			<item type="label" cmd="BUTTON" query="true">
+				<text>OFF</text>
+			</item>
+		</group>
+		<group name="maxSesSeviyesi">
+			<item type="label">
+				<text>Maksimum Ses Seviyesi:</text>
+			</item>
+			<item type="scrollbar" id="maxSesSeviye" cmd="VOLMAX" query="true" min="0" max="25" />
+			<item type="button">
+				<text>Sorgula</text>
+				<click>write($VOLMAX?)</click>
+			</item>
+			<item type="button">
+				<text>Değiştir</text>
+				<click>write($VOLMAX:{maxSesSeviye})</click>
+			</item>
+		</group>
+		<group name="minSesSeviyesi">
+			<item type="label">
+				<text>Minimum Ses Seviyesi:</text>
+			</item>
+			<item type="scrollbar" id="minSesSeviye" cmd="VOLMIN" query="true" min="1" max="25" />
+			<item type="button">
+				<text>Sorgula</text>
+				<click>write($VOLMIN?)</click>
+			</item>
+			<item type="button">
+				<text>Değiştir</text>
+				<click>write($VOLMIN:{minSesSeviye})</click>
+			</item>
+		</group>
+		<group name="sesOynat">
+			<item type="label">
+				<text>Ses Oynat:</text>
+			</item>
+			<item type="combobox" id="sesDosyasi" fill="true" min="0" max="22" />
+			<item type="label">
+				<text>Seviye:</text>
+			</item>
+			<item type="scrollbar" id="sesSeviyesi" min="1" max="10" />
+			<item type="button">
+				<text>Oynat</text>
+				<click>write($PLAY:{sesDosyasi}:{sesSeviyesi})</click>
+			</item>
+		</group>
+		<group name="sesTekrar">
+			<item type="label">
+				<text>Ses Tekrarı Bekleme:</text>
+			</item>
+			<item type="scrollbar" id="sesBeklemeSuresi" cmd="VOICDELAY" query="true" min="0" max="25" />
+			<item type="button">
+				<text>Sorgula</text>
+				<click>write($VOICDELAY?)</click>
+			</item>
+			<item type="button">
+				<text>Değiştir</text>
+				<click>write($VOICDELAY:{sesBeklemeSuresi})</click>
+			</item>
+		</group>
+		<group name="dosyaGonderme">
+			<item type="label">
+				<text>Dosya Numarası:</text>
+			</item>
+			<item type="combobox" id="dosyaNumarasi" fill="true" min="0" max="22" />
+			<item type="button">
+					<text>Seç ve Gönder</text>
+					<click>send(dosyaNumarasi)</click>
+			</item>
+		</group>
+		<group name="lambaDurumu">
+			<item type="label">
+				<text>Lamba Durumu:</text>
+			</item>
+			<item type="label" cmd="LAMP" query="false">
+				<text>RED</text>
+			</item>
+		</group>
+		<group name="mikTest">
+			<item type="label">
+				<text>Mikrofon Testi:</text>
+			</item>
+			<item type="button">
+				<text>Aç</text>
+				<click>write($MICTEST:ON)</click>
+			</item>
+			<item type="button">
+				<text>Kapat</text>
+				<click>write($MICTEST:OFF)</click>
+			</item>
+			<item type="label">
+				<text>Durum:</text>
+			</item>
+			<item type="label" cmd="MIC" />
+		</group>
+		<group name="titresimAyari">
+			<item type="label">
+				<text>Titreşim motoru ayarı:</text>
+			</item>
+			<item type="label">
+				<text>Güç:</text>
+			</item>
+			<item type="numeric" id="vibPower" min="0" max="25" />
+			<item type="label">
+				<text>Süre:</text>
+			</item>
+			<item type="numeric" id="vibTime" min="0" max="25" />
+			<item type="button">
+				<text>Ayarla</text>
+				<click>write($VIB:{vibPower}:{vibTime})</click>
+			</item>
+		</group>
+		<group name="yesilisiktitresim">
+			<item type="label">
+				<text>Yeşil ışık titreşim süresi:</text>
+			</item>
+			<item type="scrollbar" id="yesilisikTitresimSuresi" cmd="VIBGREEN" query="true" min="1" max="25" />
+			<item type="button">
+				<text>Sorgula</text>
+				<click>write($VIBGREEN?)</click>
+			</item>
+			<item type="button">
+				<text>Ayarla</text>
+				<click>write($VIBGREEN:{yesilisikTitresimSuresi})</click>
+			</item>
+		</group>
+		<group name="ortamGurultusu">
+			<item type="label">
+				<text>Gürültü algılama hassasiyeti:</text>
+			</item>
+			<item type="scrollbar" id="gurultuHassasiyet" cmd="SENS" query="true" min="0" max="25" />
+			<item type="button">
+				<text>Sorgula</text>
+				<click>write($SENS?)</click>
+			</item>
+			<item type="button">
+				<text>Değiştir</text>
+				<click>write($SENS:{gurultuHassasiyet})</click>
+			</item>
+		</group>
+		<group name="konumMesajiAyari">
+			<item type="label">
+				<text>Buton Süresi:</text>
+			</item>
+			<item type="scrollbar" id="butonSuresi" cmd="BUTTONTIME" query="true" min="1" max="25" />
+			<item type="button">
+				<text>Sorgula</text>
+				<click>write($BUTTONTIME?)</click>
+			</item>
+			<item type="button">
+				<text>Değiştir</text>
+				<click>write($BUTTONTIME:{butonSuresi})</click>
+			</item>
+		</group>
+	</groups>
+</config>

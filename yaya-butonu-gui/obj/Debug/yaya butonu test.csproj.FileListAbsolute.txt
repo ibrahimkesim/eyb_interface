@@ -1,0 +1,13 @@
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\bin\Debug\yaya butonu test.exe.config
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\bin\Debug\yaya butonu test.exe
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\bin\Debug\yaya butonu test.pdb
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya butonu test.csprojResolveAssemblyReference.cache
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya_butonu_test.Form1.resources
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya_butonu_test.Form2.resources
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya_butonu_test.Properties.Resources.resources
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya butonu test.csproj.GenerateResource.Cache
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya butonu test.exe
+c:\users\oeren.isbak\documents\visual studio 2012\Projects\yaya butonu test\yaya butonu test\obj\Debug\yaya butonu test.pdb
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\bin\Debug\yaya butonu test.exe.config
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Debug\yaya butonu test.exe
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Debug\yaya butonu test.pdb

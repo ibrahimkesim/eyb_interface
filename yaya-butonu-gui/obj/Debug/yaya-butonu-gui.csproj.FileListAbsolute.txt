@@ -1,0 +1,11 @@
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\bin\Debug\Erişilebilir Yaya Butonu.exe.config
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\bin\Debug\Erişilebilir Yaya Butonu.exe
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\bin\Debug\Erişilebilir Yaya Butonu.pdb
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\yaya_butonu_test.Form1.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\yaya_butonu_test.Form2.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\yaya_butonu_test.Form3.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\yaya_butonu_test.Properties.Resources.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\yaya-butonu-gui.csproj.GenerateResource.Cache
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\Erişilebilir Yaya Butonu.exe
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\Erişilebilir Yaya Butonu.pdb
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Debug\yaya-butonu-gui.csprojResolveAssemblyReference.cache

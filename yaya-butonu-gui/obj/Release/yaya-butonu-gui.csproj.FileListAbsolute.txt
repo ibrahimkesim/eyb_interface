@@ -1,0 +1,29 @@
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\bin\Release\yayaButonuGui.exe.config
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\bin\Release\yayaButonuGui.exe
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\bin\Release\yayaButonuGui.pdb
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Release\yaya-butonu-gui.csprojResolveAssemblyReference.cache
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Release\yaya_butonu_test.Form1.resources
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Release\yaya_butonu_gui.Properties.Resources.resources
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Release\yaya-butonu-gui.csproj.GenerateResource.Cache
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Release\yayaButonuGui.exe
+D:\projects\yaya-butonu-arayuz\yaya-butonu-2\yaya butonu test\yaya butonu test\obj\Release\yayaButonuGui.pdb
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\bin\Release\yayaButonuGui.exe.config
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\bin\Release\yayaButonuGui.exe
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\bin\Release\yayaButonuGui.pdb
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya-butonu-gui.csprojResolveAssemblyReference.cache
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya_butonu_test.Form1.resources
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya_butonu_gui.Properties.Resources.resources
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya-butonu-gui.csproj.GenerateResource.Cache
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yayaButonuGui.exe
+D:\projects\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yayaButonuGui.pdb
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya_butonu_test.Form1.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya-butonu-gui.csproj.GenerateResource.Cache
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\bin\Release\Erişilebilir Yaya Butonu.exe.config
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\bin\Release\Erişilebilir Yaya Butonu.exe
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\bin\Release\Erişilebilir Yaya Butonu.pdb
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya_butonu_test.Form2.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya_butonu_test.Properties.Resources.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\Erişilebilir Yaya Butonu.exe
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\Erişilebilir Yaya Butonu.pdb
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya_butonu_test.Form3.resources
+D:\Projelerim\Engelli Yaya Butonu\yaya-butonu-arayuz\yaya-butonu-arayuz\yaya-butonu-gui\obj\Release\yaya-butonu-gui.csprojResolveAssemblyReference.cache
